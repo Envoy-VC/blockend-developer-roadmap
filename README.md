@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/AMAI-GmbH/AI-Expert-Roadmap">
+  <a href="https://github.com/Envoy-VC/blockend-developer-roadmap">
     <img src="./assets/blockchain.png" alt="Blockchain" width="128" height="128">
   </a>
   <h2 align="center">Blockend Developer Roadmap</h2>
